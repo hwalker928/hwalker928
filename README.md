@@ -4,7 +4,7 @@ My name is Harry, and I mainly work in **Python** and **Java**. I enjoy working 
 
 - **DiscordX**:
     - Repository: https://github.com/hwalker928/DiscordX
-    - Beta Download: https://jars.harrydev.me/plugins/DiscordX-beta.jar
+    - Download: Coming soon
 - **Crypto Discord Bot** [Closed Source]:
     - Invite Link: https://discord.com/api/oauth2/authorize?client_id=766341417491890196&permissions=8&scope=bot
     
