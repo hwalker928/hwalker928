@@ -5,6 +5,9 @@
   <a href="https://discord.gg/kMBzjGByKj/" alt="Discord">
       <img src="https://img.shields.io/discord/738451951758606336?label=discord&style=for-the-badge&color=lightblue"/>
   </a>
+  <a href="https://harrydev.me/sparked" alt="Sparked Host">
+      <img src="https://img.shields.io/static/v1?label=Sponsor&message=Sparked%20Host&color=yellow&style=for-the-badge"/>
+  </a>
 </h3>
 
 <hr>
