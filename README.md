@@ -24,4 +24,9 @@
 
 <hr>
 
-<center>[![trophy](https://github-profile-trophy.vercel.app/?username=hwalker928)](https://github.com/ryo-ma/github-profile-trophy)</center>
+
+<h3 align="center">
+  <a href="https://github.com/hwalker928">
+      <img src="https://github-profile-trophy.vercel.app/?username=hwalker928">
+  </a>
+</h3>
