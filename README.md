@@ -21,3 +21,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwalker928&layout=compact&theme=synthwave">
   </a>
 </h2>
+
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hwalker928)](https://github.com/ryo-ma/github-profile-trophy)
