@@ -12,18 +12,6 @@
 
 <hr>
 
-<h2 align="center">
-  <a href="https://github.com/hwalker928">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=hwalker928&show_icons=true&theme=synthwave">
-  </a>
-  <br>
-  <a href="https://github.com/hwalker928">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwalker928&layout=compact&theme=synthwave">
-  </a>
-</h2>
-
-<hr>
-
 
 <h3 align="center">
   <a href="https://github.com/hwalker928">
@@ -33,6 +21,9 @@
 
 
 <hr>
+
+📊 **Development statistics**
+
 <!--START_SECTION:waka-->
 
 ```text
