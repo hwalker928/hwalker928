@@ -33,7 +33,5 @@
 
 
 <hr>
-
-<h3 align="center">
-<embed src="https://wakatime.com/share/@harryw/1e98c7ee-11ef-4d0a-af93-7d3c87d349cd.svg"></embed>
-</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
