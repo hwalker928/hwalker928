@@ -27,9 +27,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              12 mins         ████████████▒░░░░░░░░░░░░   49.02 %
-TypeScript       12 mins         ████████████░░░░░░░░░░░░░   47.35 %
-Blade Template   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+TypeScript   9 mins          █████████████████▒░░░░░░░   68.87 %
+PHP          4 mins          ███████▓░░░░░░░░░░░░░░░░░   31.13 %
 ```
 
 <!--END_SECTION:waka-->
