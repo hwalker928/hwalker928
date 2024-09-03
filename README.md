@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     35 mins         ██████████████░░░░░░░░░░░   55.38 %
-JavaScript   18 mins         ███████▒░░░░░░░░░░░░░░░░░   29.48 %
-MDX          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
