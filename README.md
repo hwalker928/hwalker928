@@ -12,8 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   26 mins         ███████████████▓░░░░░░░░░   62.24 %
-PHP              16 mins         █████████▒░░░░░░░░░░░░░░░   37.76 %
+Blade Template   52 mins         ██████████████████░░░░░░░   72.64 %
+PHP              19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
