@@ -12,9 +12,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             1 hr 5 mins     ████████████████████████▒   97.15 %
-Blade Template   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML             31 mins         ███████████████████████▓░   94.21 %
+Blade Template   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
