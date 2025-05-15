@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   44 mins         ████████████▓░░░░░░░░░░░░   51.03 %
-Batchfile    38 mins         ███████████░░░░░░░░░░░░░░   43.54 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
