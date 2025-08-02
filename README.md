@@ -12,7 +12,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Blade Template   3 mins          ███████████████▒░░░░░░░░░   60.95 %
+PHP              2 mins          █████████▓░░░░░░░░░░░░░░░   39.05 %
 ```
 
 <!--END_SECTION:waka-->
