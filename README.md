@@ -3,7 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   3 mins          █████████████████████████   100.00 %
+PowerShell   7 mins          ██████████████████████▓░░   90.79 %
+JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
