@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PowerShell   47 mins         ███████████████████████░░   92.09 %
+Markdown     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
