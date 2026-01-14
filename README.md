@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   47 mins         ███████████████████████░░   92.09 %
-Markdown     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+PowerShell   1 hr 41 mins    ███████████████████████▓░   94.01 %
+Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
