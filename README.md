@@ -3,7 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   46 mins               █████████████████████████   100.00 %
+Python   6 mins                ████████████████████▓░░░░   82.58 %
+TOML     1 min                 ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
 ```
 
 <!--END_SECTION:waka-->
